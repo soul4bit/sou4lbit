@@ -22,8 +22,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,jenkins,docker,java,python,javascript,php" />
+    <img src="https://skillicons.dev/icons?i=git,jenkins,docker,java,python,javascript,php" />
   </a>
 </p>
 
 ###
+
+<p>Deleted kubernetes because of <a href="https://github.com/megaredsss">megaredsss</a></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+  </a>
+</p>
